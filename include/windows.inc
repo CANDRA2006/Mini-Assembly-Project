@@ -1,0 +1,9 @@
+extern GetStdHandle
+extern ReadConsoleA
+extern WriteConsoleA
+extern GetConsoleMode
+extern SetConsoleMode
+extern CreateFileA
+extern WriteFile
+extern CloseHandle
+extern ExitProcess
